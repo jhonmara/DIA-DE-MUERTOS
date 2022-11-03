@@ -9,24 +9,35 @@ html{
 body{
     background-color: blueviolet;
 }
+
 main{
-    background-color: white;
+    background-color: blueviolet;
 }
 h1{
     color: orangered;
-    padding: 3vh;
-    margin: 2vw;
+    padding: 1vh;
+    margin: 4vw;
+    margin-right: 2%;
+    margin-left: 2%;
     font-size: 6rem;
     text-align: center;
     background-color: skyblue;
 }
+.altar{
+    width: 96%;
+    height: 30%;
+    margin: 10%;
+    margin-left: 2%; 
+    margin-right: 1%;   
+}
 p{
+    color: black;
     margin: 1vw;
     padding: 1vh;
-    font-size: 2rem;
-    color: black;
     font-family: Arial, Helvetica, sans-serif;
-    margin-left: 3rem;
+    font-weight: 300;
+    font-size: 2rem;    
+    margin-left: 2rem;
     text-align: justify;
     
 }
